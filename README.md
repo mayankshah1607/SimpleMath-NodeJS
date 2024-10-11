@@ -1,7 +1,8 @@
-<p align="center"><img width="40%" src="https://hacktoberfest.digitalocean.com/assets/logo-hf19-full-10f3c000cea930c76acc1dedc516ea7118b95353220869a3051848e45ff1d656.svg"/></p>
 
-# Hacktoberfest, 2019 with IEEE-VIT Student Branch
 
+# Hacktoberfest, 2024 with IEEE-VIT Student Branch
+
+<p align="center"><img width="60%" src="simplemath.png"/></p>
 SimpleMath is a node.js REST API that does math for you. This repository was created to help developers get started with Open Source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 > NOTE: Check out `issues` labelled as `Hacktoberfest` and start contributing!
 
